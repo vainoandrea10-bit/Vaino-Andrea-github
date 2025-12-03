@@ -21,3 +21,6 @@ else:
             min = c
 
 print("tra",a,",",b,",",c,"e",d,"il minore è",min)
+
+
+
