@@ -6,7 +6,7 @@ screen = turtle.Screen()
 screen.setup(width=800, height=800)
 screen.title("Pixel Art")
 t = turtle.Turtle()
-t.speed(0.5)
+t.speed(8)
 
 
 def quadrato(lato, colore):
